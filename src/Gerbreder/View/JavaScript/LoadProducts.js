@@ -10,5 +10,5 @@ var oReq = new XMLHttpRequest();
             document.getElementById("product_form").appendChild(meta);
         }
     }
-    oReq.open("post", "https://juniortest-erik-gerbreder.000webhostapp.com/main.php", true);
+    oReq.open("post", "https://clashroyalelover.github.io/main.php", true);
     oReq.send();
